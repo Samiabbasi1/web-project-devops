@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: abdulsami1/go-web-app
   pullPolicy: IfNotPresent
-  tag: "v1"
+  tag: "10325893829"
 
 ingress:
   enabled: false
